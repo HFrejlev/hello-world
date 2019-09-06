@@ -17,8 +17,12 @@ For at lave en liste skal man bruge * og mellemrum.
 * Laves
 * En
 * Liste
- * med
- * undermenu
+  ** med
+  ** undermenu
+
+
+Det er også muligt at linke til hjemmesider:
+Først sminder linket til hjemmesiden
 
 http://github.com - automatic!
 [GitHub](http://github.com)
